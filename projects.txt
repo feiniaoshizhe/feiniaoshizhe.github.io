@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[23695,["81","static/chunks/81-cb39f4e698b875cb.js","74","static/chunks/74-2e76fc4209e21cde.js","174","static/chunks/174-fbe449d7e671a14a.js","177","static/chunks/app/layout-f48ec3c7913496b5.js"],"SidebarProvider"]
+3:I[6094,["81","static/chunks/81-cb39f4e698b875cb.js","74","static/chunks/74-2e76fc4209e21cde.js","174","static/chunks/174-fbe449d7e671a14a.js","177","static/chunks/app/layout-f48ec3c7913496b5.js"],"AppSidebar"]
+4:I[23695,["81","static/chunks/81-cb39f4e698b875cb.js","74","static/chunks/74-2e76fc4209e21cde.js","174","static/chunks/174-fbe449d7e671a14a.js","177","static/chunks/app/layout-f48ec3c7913496b5.js"],"SidebarInset"]
+5:I[75667,["81","static/chunks/81-cb39f4e698b875cb.js","74","static/chunks/74-2e76fc4209e21cde.js","174","static/chunks/174-fbe449d7e671a14a.js","177","static/chunks/app/layout-f48ec3c7913496b5.js"],"SiteHeader"]
+6:I[32329,[],""]
+7:I[63725,[],""]
+8:I[55532,["81","static/chunks/81-cb39f4e698b875cb.js","345","static/chunks/app/not-found-5ccfb18a40285e06.js"],"default"]
+9:I[78128,[],"ClientPageRoot"]
+a:I[72544,["81","static/chunks/81-cb39f4e698b875cb.js","869","static/chunks/869-19307012bc2c1f92.js","893","static/chunks/app/projects/page-17888967d832ff02.js"],"default"]
+d:I[92207,[],"MetadataBoundary"]
+f:I[92207,[],"OutletBoundary"]
+12:I[22533,[],"AsyncMetadataOutlet"]
+14:I[92207,[],"ViewportBoundary"]
+16:I[3304,["219","static/chunks/app/global-error-2ef722a47d5c7aaf.js"],"default"]
+:HL["/_next/static/css/80efaa1d7f9c83f0.css","style"]
+0:{"P":null,"b":"zOWd97OwJgdcAqUtthWh2","p":"","c":["","projects"],"i":false,"f":[[["",{"children":["projects",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/80efaa1d7f9c83f0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"style":{"--sidebar-width":"calc(var(--spacing) * 72)","--header-height":"calc(var(--spacing) * 12)"},"children":[["$","$L3",null,{"variant":"inset"}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]}]}]]}],{"children":["projects",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L9",null,{"Component":"$a","searchParams":{},"params":{},"promises":["$@b","$@c"]}],["$","$Ld",null,{"children":"$Le"}],null,["$","$Lf",null,{"children":["$L10","$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","8dSu7pQE0mtiDzrKQtlxU",{"children":[["$","$L14",null,{"children":"$L15"}],null]}],null]}],false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+17:"$Sreact.suspense"
+18:I[22533,[],"AsyncMetadata"]
+b:{}
+c:{}
+e:["$","$17",null,{"fallback":null,"children":["$","$L18",null,{"promise":"$@19"}]}]
+11:null
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:null
+19:{"metadata":[["$","title","0",{"children":"X's Universe"}],["$","meta","1",{"name":"description","content":"Blogs | Portfolio | Life"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+13:{"metadata":"$19:metadata","error":null,"digest":"$undefined"}
